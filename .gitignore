@@ -1,0 +1,33 @@
+# 构建目录
+build/
+cmake-build-*/
+
+# CMake 生成的文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDE
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# 编译输出
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 其他
+*.out
