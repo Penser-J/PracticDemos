@@ -9,7 +9,6 @@ cmake_install.cmake
 Makefile
 
 # IDE
-.vscode/
 .idea/
 *.sln
 *.vcxproj
